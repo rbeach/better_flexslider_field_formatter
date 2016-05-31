@@ -1,0 +1,7 @@
+name = Better Flexslider Field Formatter
+description = Provides a custom flexslider field formatter that better supports non-image file types
+core = 7.x
+package = Flexslider
+version = 7.x-1.0
+dependencies[] = media
+dependencies[] = flexslider
